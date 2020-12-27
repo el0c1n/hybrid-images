@@ -4,7 +4,7 @@ With these programs hybrid images of two source images can be generated.
 
 ## Blending
 
-The generated image consists of two halves of two images. It is created via three methods.
+The generated image consists of two halves of two images. It can be created via three methods.
 
 1. Direct blending (just cutting the images in half)
 2. Laplacian blending (using laplace pyramid)
